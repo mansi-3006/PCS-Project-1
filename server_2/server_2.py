@@ -1,7 +1,7 @@
 import os
 from socket import *
 
-server_ip = "192.168.196.169"
+server_ip = "localhost"
 server_port = 8002
 s_sock = socket(AF_INET,SOCK_STREAM)
 s_sock.bind((server_ip, server_port))
