@@ -17,9 +17,9 @@ Our system contains name server and file server. Here, 3 severs are file server 
 
 
 
-  <list> - List all existing files
-  <create> [filename] [permission]- Create the file
-  <write> [Filename] - Write text to a file
+ -   <list> - List all existing files
+ -   <create> [filename] [permission]- Create the file
+ -   <write> [Filename] - Write text to a file
   <read> [Filename] - Read from a file
   <rename> [oldfilename] [newfilename] - Rename the file
   <delete> [filename] - Delete the file
