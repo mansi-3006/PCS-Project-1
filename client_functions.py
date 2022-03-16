@@ -3,9 +3,9 @@ from socket import *
 import sys
 import os.path
 
-ds_ip = "192.168.196.129"
+ds_ip = "localhost"
 ds_port =9001
-lock_ip = '192.168.196.129'
+lock_ip = 'localhost'
 lock_port = 8051
 curr_path = os.path.dirname(os.path.realpath(sys.argv[0]))
 def socket_connection():
