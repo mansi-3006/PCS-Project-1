@@ -59,7 +59,6 @@ def main():
             if os.path.exists(file):
                 os.remove(file)
                 hi = "success"
-            replica_file(msg)
             client_socket.send(hi.encode())
         elif msg != "" and "CHECK_VERSION" not in msg  and "REPLICATE" not in msg:
             filename,rw,text = msg.split("|")  # file path to perform read/write on
