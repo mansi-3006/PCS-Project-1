@@ -114,6 +114,7 @@ def menu():
     print("\n----------------MENU---------------")
     print("<list> - List all existing files")
     print("<create> [filename] [permission]- Create the file")
+    print("\t\t\tchoose the permission from below: 1 -> read_only, 2 -> read_write, 3 -> restricted")
     print("<write> [Filename] - Write text to a file")
     print("<read> [Filename] - Read from a file")
     print("<rename> [oldfilename] [newfilename] - Rename the file")
