@@ -1,6 +1,6 @@
 # PCS-Project-1
 
-We have created below mwntioned modules:
+We have created below mentioned modules:
   (1) 3 Servers
   (2) Directory Service
   (3) Locking Service
