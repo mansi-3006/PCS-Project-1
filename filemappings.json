@@ -1,0 +1,287 @@
+{
+    "file2": {
+        "author": "16311A1269",
+        "filename": "file2.txt",
+        "primary": {
+            "server_name": "localhost",
+            "portno": 8001
+        },
+        "replicas": [
+            {
+                "server_name": "localhost",
+                "portno": 8002
+            },
+            {
+                "server_name": "localhost",
+                "portno": 8003
+            }
+        ],
+        "permission": "read_only"
+    },
+    "file6": {
+        "filename": "file6.txt",
+        "author": "GU24496",
+        "primary": {
+            "server_name": "localhost",
+            "portno": 8001
+        },
+        "replicas": [
+            {
+                "server_name": "localhost",
+                "portno": 8002
+            },
+            {
+                "server_name": "localhost",
+                "portno": 8003
+            }
+        ],
+        "permission": "read_write"
+    },
+    "file11": {
+        "author": "16311A1221",
+        "filename": "file11.txt",
+        "primary": {
+            "server_name": "localhost",
+            "portno": 8001
+        },
+        "replicas": [
+            {
+                "server_name": "localhost",
+                "portno": 8002
+            },
+            {
+                "server_name": "localhost",
+                "portno": 8003
+            }
+        ],
+        "permission": "read_write"
+    },
+    "file19": {
+        "author": "16311A1291",
+        "filename": "file19.txt",
+        "primary": {
+            "server_name": "localhost",
+            "portno": 8001
+        },
+        "replicas": [
+            {
+                "server_name": "localhost",
+                "portno": 8002
+            },
+            {
+                "server_name": "localhost",
+                "portno": 8003
+            }
+        ],
+        "permission": "read_write"
+    },
+    "file25": {
+        "filename": "file25.txt",
+        "author": "WZRUS123",
+        "primary": {
+            "server_name": "localhost",
+            "portno": 8001
+        },
+        "replicas": [
+            {
+                "server_name": "localhost",
+                "portno": 8002
+            },
+            {
+                "server_name": "localhost",
+                "portno": 8003
+            }
+        ],
+        "permission": "Restricted"
+    },
+    "file1": {
+        "filename": "file1.txt",
+        "author": "WZRUS123",
+        "primary": {
+            "server_name": "localhost",
+            "portno": 8001
+        },
+        "replicas": [
+            {
+                "server_name": "localhost",
+                "portno": 8002
+            },
+            {
+                "server_name": "localhost",
+                "portno": 8003
+            }
+        ],
+        "permission": "read_only"
+    },
+    "file96": {
+        "filename": "file96.txt",
+        "author": "WZRUS123",
+        "primary": {
+            "server_name": "localhost",
+            "portno": 8001
+        },
+        "replicas": [
+            {
+                "server_name": "localhost",
+                "portno": 8002
+            },
+            {
+                "server_name": "localhost",
+                "portno": 8003
+            }
+        ],
+        "permission": "read_only"
+    },
+    "file230": {
+        "filename": "file230.txt",
+        "author": "WZRUS123",
+        "primary": {
+            "server_name": "localhost",
+            "portno": 8001
+        },
+        "replicas": [
+            {
+                "server_name": "localhost",
+                "portno": 8002
+            },
+            {
+                "server_name": "localhost",
+                "portno": 8003
+            }
+        ],
+        "permission": "read_write"
+    },
+    "file28.txt": {
+        "filename": "file28.txt",
+        "author": "123456",
+        "primary": {
+            "server_name": "localhost",
+            "portno": 8001
+        },
+        "replicas": [
+            {
+                "server_name": "localhost",
+                "portno": 8002
+            },
+            {
+                "server_name": "localhost",
+                "portno": 8003
+            }
+        ],
+        "permission": "read_write"
+    },
+    "abc": {
+        "filename": "abc.txt",
+        "author": "123456",
+        "primary": {
+            "server_name": "localhost",
+            "portno": 9001
+        },
+        "replicas": [
+            {
+                "server_name": "localhost",
+                "portno": 9002
+            },
+            {
+                "server_name": "localhost",
+                "portno": 9003
+            }
+        ],
+        "permission": "read_write"
+    },
+    "nishi": {
+        "filename": "nishi.txt",
+        "author": "123456",
+        "primary": {
+            "server_name": "localhost",
+            "portno": 9001
+        },
+        "replicas": [
+            {
+                "server_name": "localhost",
+                "portno": 9002
+            },
+            {
+                "server_name": "localhost",
+                "portno": 9003
+            }
+        ],
+        "permission": "read_write"
+    },
+    "fileabcd": {
+        "filename": "fileabcd.txt",
+        "author": "WZRUS123",
+        "primary": {
+            "server_name": "localhost",
+            "portno": 8001
+        },
+        "replicas": [
+            {
+                "server_name": "localhost",
+                "portno": 8002
+            },
+            {
+                "server_name": "localhost",
+                "portno": 8003
+            }
+        ],
+        "permission": "read_write"
+    },
+    "file65": {
+        "filename": "file65.txt",
+        "author": "WZRUS123",
+        "primary": {
+            "server_name": "localhost",
+            "portno": 8001
+        },
+        "replicas": [
+            {
+                "server_name": "localhost",
+                "portno": 8002
+            },
+            {
+                "server_name": "localhost",
+                "portno": 8003
+            }
+        ],
+        "permission": "read_write"
+    },
+    "idiot": {
+        "filename": "idiot.txt",
+        "author": "123456",
+        "primary": {
+            "server_name": "localhost",
+            "portno": 8001
+        },
+        "replicas": [
+            {
+                "server_name": "localhost",
+                "portno": 8002
+            },
+            {
+                "server_name": "localhost",
+                "portno": 8003
+            }
+        ],
+        "permission": "read_write"
+    },
+    "silly": {
+        "filename": "silly.txt",
+        "author": "123456",
+        "primary": {
+            "server_name": "localhost",
+            "portno": 8001
+        },
+        "replicas": [
+            {
+                "server_name": "localhost",
+                "portno": 8002
+            },
+            {
+                "server_name": "localhost",
+                "portno": 8003
+            }
+        ],
+        "permission": "read_write"
+    }
+}
